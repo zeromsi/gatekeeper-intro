@@ -103,7 +103,7 @@ K8s let's us write and adopt webhook in our cluster according to our need. Gatek
 
 ## How to Install?
 
-Please follow the [guide](https://open-policy-agent.github.io/gatekeeper/website/docs/install/) 
+Please follow [this](https://open-policy-agent.github.io/gatekeeper/website/docs/install/) guide.
 
 
 ## References
